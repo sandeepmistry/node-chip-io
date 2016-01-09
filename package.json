@@ -23,5 +23,9 @@
   "homepage": "https://github.com/sandeepmistry/node-chip-io#readme",
   "devDependencies": {
     "johnny-five": "^0.9.17"
+  },
+  "dependencies": {
+    "board-io": "^3.0.4",
+    "ioctl": "^1.0.0"
   }
 }
