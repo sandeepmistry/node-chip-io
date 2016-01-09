@@ -1,0 +1,24 @@
+{
+  "name": "chip-io",
+  "version": "0.0.0",
+  "description": "Johnny-Five IO Plugin for the Next Thing Co. C.H.I.P.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandeepmistry/node-chip-io.git"
+  },
+  "keywords": [
+    "Next Thing Co.",
+    "C.H.I.P.",
+    "CHIP"
+  ],
+  "author": "Sandeep Mistry <sandeep.mistry@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandeepmistry/node-chip-io/issues"
+  },
+  "homepage": "https://github.com/sandeepmistry/node-chip-io#readme"
+}
