@@ -4,7 +4,7 @@
   "description": "Johnny-Five IO Plugin for the Next Thing Co. C.H.I.P.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jshint *.js lib/. examples/."
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/sandeepmistry/node-chip-io#readme",
   "devDependencies": {
-    "johnny-five": "^0.9.17"
+    "johnny-five": "^0.9.17",
+    "jshint": "^2.9.1-rc2"
   },
   "dependencies": {
     "board-io": "^3.0.4",
