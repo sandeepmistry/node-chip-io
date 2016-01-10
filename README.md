@@ -35,7 +35,7 @@ board.on('ready', function() {
 
 ## Examples
 
-See [examples](examples folder) as well as [Johnny-Five examples](http://johnny-five.io/examples/).
+See [examples](examples) folder as well as [Johnny-Five examples](http://johnny-five.io/examples/).
 
 ## API
 
