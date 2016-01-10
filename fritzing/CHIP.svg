@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="243px" height="361px" viewBox="0 0 243 361" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>CHIP</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Trace" sketch:type="MSLayerGroup">
+            <path d="M0,360 L243,360 L243,1 L21.2405226,1 L0,22.2405226 L0,360 Z M41,26 C41,16.6111588 33.3888412,9 24,9 C14.6111588,9 7,16.6111588 7,26 C7,35.3888412 14.6111588,43 24,43 C33.3888412,43 41,35.3888412 41,26 Z" id="PCB" fill="#393939" sketch:type="MSShapeGroup"></path>
+            <path d="M41,26 C41,16.6111588 33.3888412,9 24,9 C14.6111588,9 7,16.6111588 7,26 C7,35.3888412 14.6111588,43 24,43 C33.3888412,43 41,35.3888412 41,26 Z" id="Screw-Hole" stroke="#FFF3C4" stroke-width="7" sketch:type="MSShapeGroup"></path>
+            <rect id="USB-A" fill="#A8A8A8" sketch:type="MSShapeGroup" x="43" y="1" width="78" height="82"></rect>
+            <rect id="Audio" fill="#595658" sketch:type="MSShapeGroup" x="138" y="34" width="37" height="51"></rect>
+            <rect id="Audio-Gold" fill="#E0C090" sketch:type="MSShapeGroup" x="138" y="16" width="37" height="18"></rect>
+            <rect id="Audio-Plug" fill="#323232" sketch:type="MSShapeGroup" x="143" y="0" width="27" height="18"></rect>
+            <rect id="USB-Micro-B" fill="#ECEBE8" sketch:type="MSShapeGroup" x="198" y="1" width="45" height="28"></rect>
+            <rect id="IC1" fill="#686569" sketch:type="MSShapeGroup" x="66" y="139" width="104" height="73"></rect>
+            <rect id="IC2" fill="#5B585F" sketch:type="MSShapeGroup" x="183" y="163" width="26" height="29"></rect>
+            <rect id="IC3" fill="#444344" sketch:type="MSShapeGroup" x="132" y="287" width="35" height="34"></rect>
+            <rect id="Battery-Connector" fill="#F0F0F3" sketch:type="MSShapeGroup" x="174" y="321" width="38" height="37"></rect>
+            <rect id="RealTek-PCB" fill="#00326D" sketch:type="MSShapeGroup" x="37" y="253" width="73" height="72"></rect>
+            <rect id="IC4" fill="#525153" sketch:type="MSShapeGroup" x="58" y="274" width="31" height="31"></rect>
+            <rect id="Status-LED" fill="#FFFFFF" sketch:type="MSShapeGroup" x="223" y="44" width="17" height="7"></rect>
+            <rect id="Power-LED" fill="#BD0FE1" sketch:type="MSShapeGroup" x="206" y="44" width="17" height="7"></rect>
+            <g id="NTC" transform="translate(128.000000, 96.000000)" fill="#C8A51F" sketch:type="MSShapeGroup">
+                <path d="M4.48,0.33 C5.64,1.54 6.8,2.74 7.97,3.94 C9.8,2.3 12.17,-0.83 14.91,1.01 C15.46,2.08 15.61,3.3 15.87,4.46 C13.18,6.95 10.71,9.68 7.77,11.9 C5.32,9.39 2.84,6.9 0.29,4.48 C0.5,3.28 0.72,2.08 0.94,0.88 C2.12,0.69 3.3,0.51 4.48,0.33 Z" id="Shape"></path>
+                <path d="M21.04,0.73 C26.44,-0.89 29.22,5.22 32.71,8.12 C32.9,5.5 33.04,2.87 33.26,0.25 C34.22,0.46 35.18,0.69 36.13,0.96 C36.46,4.91 36.27,8.88 36.08,12.83 C30.69,13.56 28.18,7.86 24.5,5.08 C24.49,7.68 24.47,10.29 24.12,12.87 C23.39,12.79 21.94,12.62 21.22,12.54 C21.11,8.6 21.14,4.66 21.04,0.73 L21.04,0.73 Z" id="Shape"></path>
+                <path d="M42.13,0.51 C47.13,0.54 52.13,0.29 57.11,0.75 C57.03,1.51 56.88,3.03 56.8,3.79 C54.89,3.8 52.98,3.82 51.07,3.83 C51.09,6.88 51.03,9.92 50.78,12.96 C49.79,12.75 48.81,12.51 47.85,12.24 C47.58,9.43 47.75,6.61 47.72,3.8 C45.77,3.81 43.82,3.81 41.87,3.82 C41.95,2.71 42.04,1.61 42.13,0.51 L42.13,0.51 Z" id="Shape"></path>
+                <path d="M76.54,0.6 C78.2,0.57 77.75,2.35 77.56,3.4 C74.76,4.28 71.7,3.66 68.79,3.81 C68.79,5.65 68.8,7.5 68.81,9.34 C71.69,9.37 74.6,9.13 77.46,9.58 C77.78,10.5 77.81,11.43 77.55,12.37 C72.68,13.09 67.73,12.42 62.83,12.76 C62.41,8.77 62.25,4.7 62.75,0.71 C67.32,0.3 71.95,0.41 76.54,0.6 Z" id="Shape"></path>
+            </g>
+            <g id="Logo" transform="translate(70.000000, 218.000000)" sketch:type="MSShapeGroup">
+                <path d="M7.95,5.55111512e-17 C7.98,0.83 8.04,2.5 8.07,3.33 C10.62,3.32 10.5,0.13 12.76,-0.4 C12.84,0.46 13,2.17 13.08,3.03 C13.75,3.02 15.09,3 15.75,2.99 C15.8,2.24 15.91,0.74 15.96,-0.01 C16.44,5.55111512e-17 17.41,0.03 17.89,0.05 C17.93,0.78 18.01,2.25 18.05,2.99 C18.77,3.01 20.21,3.06 20.93,3.08 C20.95,3.8 21,5.23 21.03,5.95 C21.86,6.02 23.52,6.14 24.36,6.21 C24.15,8.09 22.72,8.76 21.02,8.95 C21.01,9.37 21,10.19 21,10.6 C22.67,10.79 24.34,11.1 24.31,13.18 C23.5,13.22 21.89,13.29 21.08,13.33 C21.05,13.98 20.99,15.3 20.96,15.96 C21.72,15.99 23.23,16.05 23.99,16.08 C23.99,16.58 24,17.59 24.01,18.09 C23.26,18.1 21.78,18.12 21.04,18.14 C21.02,18.88 20.99,20.35 20.97,21.09 C20.28,21.1 18.91,21.12 18.23,21.13 C18.12,22.75 17.86,24.35 15.97,24.67 C15.91,23.78 15.8,22.02 15.74,21.14 C15.12,21.12 13.87,21.09 13.25,21.07 C13.13,21.8 12.89,23.26 12.77,24 C10.75,25.55 10.5,22.52 10.23,21.23 C9.71,21.17 8.67,21.04 8.15,20.98 C8.08,21.89 7.93,23.71 7.85,24.62 C5.95,24.36 5.95,22.61 5.77,21.1 C5.08,21.11 3.72,21.14 3.04,21.15 C3.01,20.38 2.96,18.85 2.93,18.09 C2.2,18.11 0.73,18.14 0,18.15 L0,16.02 C0.75,16.01 2.27,15.99 3.02,15.98 C3,15.31 2.96,13.96 2.94,13.29 C2.2,13.3 0.73,13.33 0,13.34 C0,12.74 0.01,11.54 0.02,10.94 C0.76,10.91 2.24,10.86 2.98,10.83 C2.99,10.29 3.01,9.2 3.02,8.65 C2.3,8.64 0.88,8.63 0.16,8.63 C0.1,7.98 -0.01,6.68 -0.07,6.03 C0.7,6.03 2.23,6.01 2.99,6 C3,5.26 3,3.77 3,3.02 C3.75,3.02 5.24,3.01 5.98,3.01 C5.99,2.26 6.01,0.75 6.02,5.55111512e-17 L7.95,5.55111512e-17 Z" id="Path" fill="#D0B11C"></path>
+                <path d="M18.76,5.6 C18.78,7.38 18.8,9.17 18.81,10.96 C16.8,10.79 14.73,10.81 12.78,10.24 C11.76,9.37 11.32,8.04 10.61,6.94 C9.51,7 8.43,7.14 7.36,7.37 C6.63,8.71 7.03,10.24 7.07,11.69 C10.93,12.58 14.83,13.38 18.81,13.42 C18.8,15.24 18.8,17.07 18.79,18.9 C14.2,19.07 9.6,19.02 5,19 C5,14.56 5.01,10.12 4.98,5.68 C9.57,5.6 14.17,5.65 18.76,5.6 Z" id="Path" fill="#393939"></path>
+            </g>
+            <g id="Connector-Left" transform="translate(0.000000, 56.000000)" sketch:type="MSShapeGroup">
+                <rect id="Bottom" fill="#474446" x="0" y="0" width="33" height="305"></rect>
+                <rect id="LCD-DE" fill="#252425" x="20" y="290" width="10" height="8"></rect>
+                <rect id="GND" fill="#252425" x="4" y="290" width="10" height="8"></rect>
+                <rect id="LCD-HSYNC" fill="#252425" x="20" y="275" width="10" height="8"></rect>
+                <rect id="LCD-VSYNC" fill="#252425" x="4" y="275" width="10" height="8"></rect>
+                <rect id="LCD-D23" fill="#252425" x="20" y="260" width="10" height="8"></rect>
+                <rect id="LCD-CLK" fill="#252425" x="4" y="260" width="10" height="8"></rect>
+                <rect id="LCD-D21" fill="#252425" x="20" y="245" width="10" height="8"></rect>
+                <rect id="LCD-22" fill="#252425" x="4" y="245" width="10" height="8"></rect>
+                <rect id="LCD-D19" fill="#252425" x="20" y="230" width="10" height="8"></rect>
+                <rect id="LCD-D20" fill="#252425" x="4" y="230" width="10" height="8"></rect>
+                <rect id="LCD-D15" fill="#252425" x="20" y="215" width="10" height="8"></rect>
+                <rect id="LCD-D18" fill="#252425" x="4" y="215" width="10" height="8"></rect>
+                <rect id="LCD-D13" fill="#252425" x="20" y="200" width="10" height="8"></rect>
+                <rect id="LCD-D14" fill="#252425" x="4" y="200" width="10" height="8"></rect>
+                <rect id="LCD-D11" fill="#252425" x="20" y="185" width="10" height="8"></rect>
+                <rect id="LCD-D12" fill="#252425" x="4" y="185" width="10" height="8"></rect>
+                <rect id="LCD-D7" fill="#252425" x="20" y="170" width="10" height="8"></rect>
+                <rect id="LCD-D10" fill="#252425" x="4" y="170" width="10" height="8"></rect>
+                <rect id="LCD-D5" fill="#252425" x="20" y="155" width="10" height="8"></rect>
+                <rect id="LCD-D6" fill="#252425" x="4" y="155" width="10" height="8"></rect>
+                <rect id="LCD-D3" fill="#252425" x="20" y="140" width="10" height="8"></rect>
+                <rect id="LCD-D4" fill="#252425" x="4" y="140" width="10" height="8"></rect>
+                <rect id="PWM0" fill="#252425" x="20" y="125" width="10" height="8"></rect>
+                <rect id="LCD-D2" fill="#252425" x="4" y="125" width="10" height="8"></rect>
+                <rect id="Y2" fill="#252425" x="20" y="110" width="10" height="8"></rect>
+                <rect id="Y1" fill="#252425" x="4" y="110" width="10" height="8"></rect>
+                <rect id="X2" fill="#252425" x="20" y="95" width="10" height="8"></rect>
+                <rect id="X1" fill="#252425" x="4" y="95" width="10" height="8"></rect>
+                <rect id="GND" fill="#252425" x="20" y="80" width="10" height="8"></rect>
+                <rect id="TWI-SCK" fill="#252425" x="4" y="80" width="10" height="8"></rect>
+                <rect id="PWRON" fill="#252425" x="20" y="65" width="10" height="8"></rect>
+                <rect id="TWI1-SDA" fill="#252425" x="4" y="65" width="10" height="8"></rect>
+                <rect id="BAT" fill="#252425" x="20" y="50" width="10" height="8"></rect>
+                <rect id="VCC-1V8" fill="#252425" x="4" y="50" width="10" height="8"></rect>
+                <rect id="TS" fill="#252425" x="20" y="35" width="10" height="8"></rect>
+                <rect id="VCC-3V3" fill="#252425" x="4" y="35" width="10" height="8"></rect>
+                <rect id="GND" fill="#252425" x="20" y="20" width="10" height="8"></rect>
+                <rect id="VCC-5V" fill="#252425" x="4" y="20" width="10" height="8"></rect>
+                <rect id="CHG-IN" fill="#252425" x="20" y="5" width="10" height="8"></rect>
+                <rect id="GND" fill="#252425" x="4" y="5" width="10" height="8"></rect>
+            </g>
+            <g id="Connector-Right" transform="translate(210.000000, 55.000000)" sketch:type="MSShapeGroup">
+                <rect id="Bottom" fill="#474446" x="0" y="0" width="33" height="305"></rect>
+                <rect id="GND" fill="#252425" x="19" y="290" width="10" height="8"></rect>
+                <rect id="GND" fill="#252425" x="3" y="290" width="10" height="8"></rect>
+                <rect id="CSID7" fill="#252425" x="19" y="275" width="10" height="8"></rect>
+                <rect id="CSID6" fill="#252425" x="3" y="275" width="10" height="8"></rect>
+                <rect id="CSID5" fill="#252425" x="19" y="260" width="10" height="8"></rect>
+                <rect id="CSID4" fill="#252425" x="3" y="260" width="10" height="8"></rect>
+                <rect id="CSID3" fill="#252425" x="19" y="245" width="10" height="8"></rect>
+                <rect id="CSID2" fill="#252425" x="3" y="245" width="10" height="8"></rect>
+                <rect id="CSID1" fill="#252425" x="19" y="230" width="10" height="8"></rect>
+                <rect id="CSID0" fill="#252425" x="3" y="230" width="10" height="8"></rect>
+                <rect id="CSIVSYNC" fill="#252425" x="19" y="215" width="10" height="8"></rect>
+                <rect id="CSIHSYNC" fill="#252425" x="3" y="215" width="10" height="8"></rect>
+                <rect id="CSICK" fill="#252425" x="19" y="200" width="10" height="8"></rect>
+                <rect id="CSIPCK" fill="#252425" x="3" y="200" width="10" height="8"></rect>
+                <rect id="TWI2-SCK" fill="#252425" x="19" y="185" width="10" height="8"></rect>
+                <rect id="TWI2-SDA" fill="#252425" x="3" y="185" width="10" height="8"></rect>
+                <rect id="AP-EINT2" fill="#252425" x="19" y="170" width="10" height="8"></rect>
+                <rect id="AP-EINT1" fill="#252425" x="3" y="170" width="10" height="8"></rect>
+                <rect id="GND" fill="#252425" x="19" y="155" width="10" height="8"></rect>
+                <rect id="GND" fill="#252425" x="3" y="155" width="10" height="8"></rect>
+                <rect id="XIO-P7" fill="#252425" x="19" y="140" width="10" height="8"></rect>
+                <rect id="XIO-P6" fill="#252425" x="3" y="140" width="10" height="8"></rect>
+                <rect id="XIO-P5" fill="#252425" x="19" y="125" width="10" height="8"></rect>
+                <rect id="XIO-P4" fill="#252425" x="3" y="125" width="10" height="8"></rect>
+                <rect id="XIO-P3" fill="#252425" x="19" y="110" width="10" height="8"></rect>
+                <rect id="XIO-P2" fill="#252425" x="3" y="110" width="10" height="8"></rect>
+                <rect id="XIO-P1" fill="#252425" x="19" y="95" width="10" height="8"></rect>
+                <rect id="XIO-P0" fill="#252425" x="3" y="95" width="10" height="8"></rect>
+                <rect id="MICIN1" fill="#252425" x="19" y="80" width="10" height="8"></rect>
+                <rect id="LRADC" fill="#252425" x="3" y="80" width="10" height="8"></rect>
+                <rect id="MICM" fill="#252425" x="19" y="65" width="10" height="8"></rect>
+                <rect id="VCC-3V3" fill="#252425" x="3" y="65" width="10" height="8"></rect>
+                <rect id="HPR" fill="#252425" x="19" y="50" width="10" height="8"></rect>
+                <rect id="FEL" fill="#252425" x="3" y="50" width="10" height="8"></rect>
+                <rect id="HPCOM" fill="#252425" x="19" y="35" width="10" height="8"></rect>
+                <rect id="UART1-RX" fill="#252425" x="3" y="35" width="10" height="8"></rect>
+                <rect id="HPL" fill="#252425" x="19" y="20" width="10" height="8"></rect>
+                <rect id="UART1-TX" fill="#252425" x="3" y="20" width="10" height="8"></rect>
+                <rect id="VCC-5V" fill="#252425" x="19" y="5" width="10" height="8"></rect>
+                <rect id="GND" fill="#252425" x="3" y="5" width="10" height="8"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
