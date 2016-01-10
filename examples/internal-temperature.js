@@ -9,12 +9,17 @@ board.on('ready', function() {
   // do johnny five stuff
 
   var pin = 'INTTEMP';
+  var previousTemperature = null;
 
   this.pinMode(pin, five.Pin.ANALOG);
 
   this.analogRead(pin, function(value) {
     var temperature = value * 0.1 - 144.7;
 
-    console.log('Internal temperature is ' + temperature.toFixed(2) + ' °C');
+    if (temperature !== previousTemperature) {
+      console.log('Internal temperature is ' + temperature.toFixed(2) + ' °C');
+
+      previousTemperature = temperature;
+    }
   });
 });
