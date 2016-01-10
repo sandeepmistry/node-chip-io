@@ -13,7 +13,9 @@
   "keywords": [
     "Next Thing Co.",
     "C.H.I.P.",
-    "CHIP"
+    "CHIP",
+    "johnny-five",
+    "io"
   ],
   "author": "Sandeep Mistry <sandeep.mistry@gmail.com>",
   "license": "MIT",
