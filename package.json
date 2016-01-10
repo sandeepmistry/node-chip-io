@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "board-io": "^3.0.4",
+    "debug": "^2.2.0",
     "ioctl": "^1.0.0"
   }
 }

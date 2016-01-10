@@ -8,13 +8,13 @@ var board = new five.Board({
 board.on('ready', function() {
   // do johnny five stuff
 
-  var pin = 'BAT';
+  var pin = 'INTTEMP';
 
   this.pinMode(pin, five.Pin.ANALOG);
 
   this.analogRead(pin, function(value) {
-    var voltage = (value * 1.1) / 1000;
+    var temperature = value * 0.1 - 144.7;
 
-    console.log('Battery voltage is ' + voltage.toFixed(2) + 'V');
+    console.log('Internal temperature is ' + temperature.toFixed(2) + ' °C');
   });
 });
