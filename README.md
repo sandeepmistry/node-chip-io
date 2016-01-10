@@ -8,6 +8,9 @@
 
  * Next Thing Co. C.H.I.P. board
  * Node.js installed
+   1. Install ```curl```: ```apt-get install curl```
+   2. Follow Debian section of [NodeSource installations instructions](https://github.com/nodesource/distributions#debinstall)
+ * Build essential installed: ```apt-get install build-essential```
 
 ## Getting Started
 
