@@ -11,6 +11,7 @@
    1. Install ```curl```: ```apt-get install curl```
    2. Follow Debian section of [NodeSource installations instructions](https://github.com/nodesource/distributions#debinstall)
  * Build essential installed: ```apt-get install build-essential```
+ * Add ```chip``` user to ```i2c``` group: ```sudo adduser chip i2c```
 
 ## Getting Started
 
