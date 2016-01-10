@@ -6,17 +6,16 @@ var board = new five.Board({
 });
 
 board.on('ready', function() {
-  // do johnny five stuff
-
+  // Create an button on the XIO-P1 pin
   var button = new five.Button('XIO-P1');
 
-  // "down" the button is pressed
-  button.on("down", function() {
-    console.log("down");
+  // add event listeners for 'up' and 'down' events
+
+  button.on('down', function() {
+    console.log('down');
   });
 
-  // "up" the button is released
-  button.on("up", function() {
-    console.log("up");
+  button.on('up', function() {
+    console.log('up');
   });
 });

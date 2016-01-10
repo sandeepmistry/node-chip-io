@@ -6,8 +6,6 @@ var board = new five.Board({
 });
 
 board.on('ready', function() {
-  // do johnny five stuff
-
   // Create an LED for the STATUS LED
   var led = new five.Led('STATUS');
 

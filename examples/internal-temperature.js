@@ -5,17 +5,18 @@ var board = new five.Board({
   io: new ChipIO()
 });
 
+var previousTemperature = null;
+
 board.on('ready', function() {
-  // do johnny five stuff
+  // set INTTEMP pin as analog input
+  this.pinMode('INTTEMP', five.Pin.ANALOG);
 
-  var pin = 'INTTEMP';
-  var previousTemperature = null;
-
-  this.pinMode(pin, five.Pin.ANALOG);
-
-  this.analogRead(pin, function(value) {
+  // enable analog read's on INTTEMP pin
+  this.analogRead('INTTEMP', function(value) {
+    // convert value to temperature
     var temperature = value * 0.1 - 144.7;
 
+    // print new temperature to console, only if it has changes
     if (temperature !== previousTemperature) {
       console.log('Internal temperature is ' + temperature.toFixed(2) + ' °C');
 
