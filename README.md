@@ -55,8 +55,8 @@ See  [Johnny-Five API docs](http://johnny-five.io/api/).
 | XIO-P6 | 6 | Input, Output | Connected to the PCF8574A IO extender |
 | XIO-P7 | 7 | Input, Output | Connected to the PCF8574A IO extender |
 | STATUS | 8 | Output | Connected to status LED via GPIO2 of the AXP290 |
-| BAT | 9 | Input | Reads battery voltage from the AXP290 |
-| INTTEMP | 10 | Input | Reads internal temperature from the AXP290 |
+| BAT | 9 | Analog | Reads battery voltage from the AXP290 |
+| INTTEMP | 10 | Analog | Reads internal temperature from the AXP290 |
 | I2C | | I2C | Uses I2C port 1 (TWI1-SCK and TWI1-SDA) |
 
 ![C.H.I.P. pinouts](http://docs.getchip.com/images/chip_pinouts.jpg)
