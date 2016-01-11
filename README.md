@@ -2,11 +2,11 @@
 
 ![logo](images/CHIP-J5.png)
 
-[Johnny-Five](https://github.com/rwaldron/johnny-five) [IO Plugin](https://github.com/rwaldron/io-plugins) for the [Next Thing Co. C.H.I.P.](http://nextthing.co/index.html)
+[Johnny-Five](https://github.com/rwaldron/johnny-five) [IO Plugin](https://github.com/rwaldron/io-plugins) for the [Next Thing Co.](http://nextthing.co/index.html) [C.H.I.P.](http://getchip.com)
 
 ## Prerequisites
 
- * Next Thing Co. C.H.I.P. board
+ * Next Thing Co. [C.H.I.P.](http://getchip.com) board
  * Node.js installed
    1. Install ```curl```: ```apt-get install curl```
    2. Follow Debian section of [NodeSource installations instructions](https://github.com/nodesource/distributions#debinstall)
