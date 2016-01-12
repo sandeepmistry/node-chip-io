@@ -8,10 +8,10 @@
 
  * Next Thing Co. [C.H.I.P.](http://getchip.com) board
  * Node.js installed
-   1. Install ```curl```: ```apt-get install curl```
+   1. Install ```curl```: ```sudo apt-get install curl```
    2. Follow Debian section of [NodeSource installations instructions](https://github.com/nodesource/distributions#debinstall)
- * Build essential installed: ```apt-get install build-essential```
- * Add ```chip``` user to ```i2c``` group: ```sudo adduser chip i2c```
+ * Build essential installed: ```sudo apt-get install build-essential```
+ * Add ```chip``` user to ```i2c``` group: ```sudo sudo adduser chip i2c```
 
 ## Getting Started
 
