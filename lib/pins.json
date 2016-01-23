@@ -1,0 +1,636 @@
+[
+  {
+    "name": "DUMMY",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "CHG-IN",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "VCC-5V",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "VCC-3V3",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "TS",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "VCC-1V8",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "BAT",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "TWI1-SDA",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "PWRON",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "TWI1-SCK",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "X1",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "X2",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "Y1",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "Y2",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "LCD-D2",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "PWM0",
+    "supportedModes": [0, 1, 3],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D4",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D3",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D6",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D5",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D10",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D7",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D12",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D11",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D14",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D13",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D18",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D15",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D20",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D19",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D22",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D21",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-CLK",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-D23",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-VSYNC",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "LCD-HSYNC",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "LCD-DE",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "VCC-5V",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "UART1-TX",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "HPL",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "UART1-RX",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "HPCOM",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "FEL",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "HPR",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "VCC-3V3",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "MICM",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "LRADC",
+    "supportedModes": [2],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "MICIN1",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "XIO-P0",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "PCF8574A"
+  },
+  {
+    "name": "XIO-P1",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "PCF8574A"
+  },
+  {
+    "name": "XIO-P2",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "PCF8574A"
+  },
+  {
+    "name": "XIO-P3",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "PCF8574A"
+  },
+  {
+    "name": "XIO-P4",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "PCF8574A"
+  },
+  {
+    "name": "XIO-P5",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "PCF8574A"
+  },
+  {
+    "name": "XIO-P6",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "PCF8574A"
+  },
+  {
+    "name": "XIO-P7",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "PCF8574A"
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+    {
+    "name": "AP-EINT1",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "AP-EINT3",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "TWI2-SDA",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "TWI2-SCK",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "CSIPCK",
+    "supportedModes": [0],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSICK",
+    "supportedModes": [0],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSIHSYNC",
+    "supportedModes": [0],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSIVSYNC",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSID0",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSID1",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSID2",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSID3",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSID4",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSID5",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSID6",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "CSID7",
+    "supportedModes": [0, 1],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "R8"
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "GND",
+    "supportedModes": [],
+    "mode": -1,
+    "report": 0,
+    "analogChannel": 127
+  },
+  {
+    "name": "STATUS",
+    "supportedModes": [1],
+    "mode": 1,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "AXP209"
+  },
+  {
+    "name": "BAT",
+    "supportedModes": [2],
+    "mode": 2,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "AXP209"
+  },
+  {
+    "name": "INTTEMP",
+    "supportedModes": [2],
+    "mode": 2,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "AXP209"
+  }
+]
