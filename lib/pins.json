@@ -306,7 +306,8 @@
     "supportedModes": [0, 1],
     "mode": -1,
     "report": 0,
-    "analogChannel": 127
+    "analogChannel": 127,
+    "chip": "R8"
   },
   {
     "name": "GND",
