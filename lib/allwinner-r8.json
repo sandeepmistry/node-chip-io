@@ -1,0 +1,177 @@
+{
+  "PWM0": {
+    "port": "B",
+    "register": 0,
+    "index": 2
+  },
+  "LCD-D2": {
+    "port": "D",
+    "register": 0,
+    "index": 2
+  },
+  "LCD-D3": {
+    "port": "D",
+    "register": 0,
+    "index": 3
+  },
+  "LCD-D4": {
+    "port": "D",
+    "register": 0,
+    "index": 4
+  },
+  "LCD-D5": {
+    "port": "D",
+    "register": 0,
+    "index": 5
+  },
+  "LCD-D6": {
+    "port": "D",
+    "register": 0,
+    "index": 6
+  },
+  "LCD-D7": {
+    "port": "D",
+    "register": 0,
+    "index": 7
+  },
+  "LCD-D10": {
+    "port": "D",
+    "register": 1,
+    "index": 2
+  },
+  "LCD-D11": {
+    "port": "D",
+    "register": 1,
+    "index": 3
+  },
+  "LCD-D12": {
+    "port": "D",
+    "register": 1,
+    "index": 4
+  },
+  "LCD-D13": {
+    "port": "D",
+    "register": 1,
+    "index": 5
+  },
+  "LCD-D14": {
+    "port": "D",
+    "register": 1,
+    "index": 6
+  },
+  "LCD-D15": {
+    "port": "D",
+    "register": 1,
+    "index": 7
+  },
+  "LCD-D18": {
+    "port": "D",
+    "register": 2,
+    "index": 2
+  },
+  "LCD-D19": {
+    "port": "D",
+    "register": 2,
+    "index": 3
+  },
+  "LCD-D20": {
+    "port": "D",
+    "register": 2,
+    "index": 4
+  },
+  "LCD-D21": {
+    "port": "D",
+    "register": 2,
+    "index": 5
+  },
+  "LCD-D22": {
+    "port": "D",
+    "register": 2,
+    "index": 6
+  },
+  "LCD-D23": {
+    "port": "D",
+    "register": 2,
+    "index": 7
+  },
+  "LCD-CLK": {
+    "port": "D",
+    "register": 3,
+    "index": 2
+  },
+  "LCD-DE": {
+    "port": "D",
+    "register": 3,
+    "index": 3
+  },
+  "LCD-HSYNC": {
+    "port": "D",
+    "register": 3,
+    "index": 4
+  },
+  "LCD-VSYNC": {
+    "port": "D",
+    "register": 3,
+    "index": 5
+  },
+  "CSIPCK": {
+    "port": "E",
+    "register": 0,
+    "index": 0
+  },
+  "CSICK": {
+    "port": "E",
+    "register": 0,
+    "index": 1
+  },
+  "CSIHSYNC": {
+    "port": "E",
+    "register": 0,
+    "index": 2
+  },
+  "CSIVSYNC": {
+    "port": "E",
+    "register": 0,
+    "index": 3
+  },
+  "CSID0": {
+    "port": "E",
+    "register": 0,
+    "index": 4
+  },
+  "CSID1": {
+    "port": "E",
+    "register": 0,
+    "index": 5
+  },
+  "CSID2": {
+    "port": "E",
+    "register": 0,
+    "index": 6
+  },
+  "CSID3": {
+    "port": "E",
+    "register": 0,
+    "index": 7
+  },
+  "CSID4": {
+    "port": "E",
+    "register": 1,
+    "index": 0
+  },
+  "CSID5": {
+    "port": "E",
+    "register": 1,
+    "index": 1
+  },
+  "CSID6": {
+    "port": "E",
+    "register": 1,
+    "index": 2
+  },
+  "CSID7": {
+    "port": "E",
+    "register": 1,
+    "index": 3
+  }
+}
