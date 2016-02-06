@@ -46,17 +46,17 @@ See  [Johnny-Five API docs](http://johnny-five.io/api/).
 
 | Johnny-Five Compatible Name | Number | Supported Modes | Info |
 |-----------------------------|--------|-----------------|------|
-| XIO-PO | 0 | Input, Output | Connected to the PCF8574A IO extender |
-| XIO-P1 | 1 | Input, Output | Connected to the PCF8574A IO extender |
-| XIO-P2 | 2 | Input, Output | Connected to the PCF8574A IO extender |
-| XIO-P3 | 3 | Input, Output | Connected to the PCF8574A IO extender |
-| XIO-P4 | 4 | Input, Output | Connected to the PCF8574A IO extender |
-| XIO-P5 | 5 | Input, Output | Connected to the PCF8574A IO extender |
-| XIO-P6 | 6 | Input, Output | Connected to the PCF8574A IO extender |
-| XIO-P7 | 7 | Input, Output | Connected to the PCF8574A IO extender |
-| STATUS | 8 | Output | Connected to status LED via GPIO2 of the AXP290 |
-| BAT | 9 | Analog | Reads battery voltage from the AXP290 |
-| INTTEMP | 10 | Analog | Reads internal temperature from the AXP290 |
+| XIO-PO | 53 | Input, Output | Connected to the PCF8574A IO extender |
+| XIO-P1 | 54 | Input, Output | Connected to the PCF8574A IO extender |
+| XIO-P2 | 55 | Input, Output | Connected to the PCF8574A IO extender |
+| XIO-P3 | 56 | Input, Output | Connected to the PCF8574A IO extender |
+| XIO-P4 | 57 | Input, Output | Connected to the PCF8574A IO extender |
+| XIO-P5 | 58 | Input, Output | Connected to the PCF8574A IO extender |
+| XIO-P6 | 59 | Input, Output | Connected to the PCF8574A IO extender |
+| XIO-P7 | 60 | Input, Output | Connected to the PCF8574A IO extender |
+| STATUS | 81 | Output | Connected to status LED via GPIO2 of the AXP290 |
+| BAT | 82 | Analog | Reads battery voltage from the AXP290 |
+| INTTEMP | 83 | Analog | Reads internal temperature from the AXP290 |
 | I2C | | I2C | Uses I2C port 1 (TWI1-SCK and TWI1-SDA) |
 
 ![C.H.I.P. pinouts](http://docs.getchip.com/images/chip_pinouts.jpg)
