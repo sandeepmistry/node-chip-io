@@ -14,6 +14,6 @@ board.on('ready', function() {
     // convert analog read value to voltage
     var voltage = (value * 1.1) / 1000;
 
-    console.log('Battery voltage is ' + voltage.toFixed(2) + 'V', value);
+    console.log('Battery voltage is ' + voltage.toFixed(2) + 'V');
   });
 });
