@@ -120,7 +120,7 @@
   },
   {
     "name": "LCD-D2",
-    "supportedModes": [0, 1],
+    "supportedModes": [0],
     "mode": -1,
     "report": 0,
     "analogChannel": 127,
