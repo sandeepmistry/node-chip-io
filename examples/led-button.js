@@ -1,8 +1,8 @@
 var five = require('johnny-five');
-var ChipIO = require('../index'); // or require('chip-io');
+var chipio = require('../index'); // or require('chip-io');
 
 var board = new five.Board({
-  io: new ChipIO()
+  io: new chipio()
 });
 
 board.on('ready', function() {
