@@ -1,19 +1,16 @@
 var five = require('johnny-five');
-var ChipIO = require('../index'); // or require('chip-io');
+var chipio = require('../index'); // or require('chip-io');
 
 var board = new five.Board({
-  io: new ChipIO()
+  io: new chipio()
 });
 
 board.on('ready', function() {
-  // create (analog) sensor on BAT pin
-  var bat = new five.Sensor('BAT');
+  // create battery voltage sensor
+  var batteryVoltage = new chipio.BatteryVoltage();
 
   // listen for value changes
-  bat.on('change', function(value) {
-    // convert analog read value to voltage
-    var voltage = (value * 1.1) / 1000;
-
+  batteryVoltage.on('change', function(voltage) {
     console.log('Battery voltage is ' + voltage.toFixed(2) + 'V');
   });
 });
