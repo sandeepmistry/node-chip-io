@@ -23,10 +23,10 @@ npm install chip-io johnny-five
 
 ```javascript
 var five = require('johnny-five');
-var ChipIO = require('chip-io');
+var chipio = require('chip-io');
 
 var board = new five.Board({
-  io: new ChipIO()
+  io: new chipio()
 });
 
 board.on('ready', function() {
@@ -54,9 +54,14 @@ See  [Johnny-Five API docs](http://johnny-five.io/api/).
 | XIO-P5 | 58 | Input, Output | Connected to the PCF8574A IO extender |
 | XIO-P6 | 59 | Input, Output | Connected to the PCF8574A IO extender |
 | XIO-P7 | 60 | Input, Output | Connected to the PCF8574A IO extender |
-| STATUS | 81 | Output | Connected to status LED via GPIO2 of the AXP290 |
-| BAT | 82 | Analog | Reads battery voltage from the AXP290 |
-| INTTEMP | 83 | Analog | Reads internal temperature from the AXP290 |
 | I2C | | I2C | Uses I2C port 1 (TWI1-SCK and TWI1-SDA) |
 
 ![C.H.I.P. pinouts](http://docs.getchip.com/images/chip_pinouts.jpg)
+
+## Additional Features
+
+| Type | Usage | Johnny-Five type | Notes |
+| ---- | ----- | ---------------- | ----- |
+| Battery Voltage | `new chipio.BatteryVoltage();` | [five.Sensor](http://johnny-five.io/api/sensor/) | Reads battery voltage from the AXP290 |
+| Internal Temperature | `new chipio.InternalTemperature();` | [five.Thermometer](http://johnny-five.io/api/thermometer/) | Reads internal temperature from the AXP290 |
+| Status LED | `new chipio.StatusLed;` | [five.Led](http://johnny-five.io/api/led/) | Controls status LED connected to GPIO2 on the AXP290 |
