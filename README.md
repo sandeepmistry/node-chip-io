@@ -46,7 +46,7 @@ See  [Johnny-Five API docs](http://johnny-five.io/api/).
 
 | Johnny-Five Compatible Name | Number | Supported Modes | Info |
 |-----------------------------|--------|-----------------|------|
-| XIO-PO | 53 | Input, Output | Connected to the PCF8574A IO extender |
+| XIO-P0 | 53 | Input, Output | Connected to the PCF8574A IO extender |
 | XIO-P1 | 54 | Input, Output | Connected to the PCF8574A IO extender |
 | XIO-P2 | 55 | Input, Output | Connected to the PCF8574A IO extender |
 | XIO-P3 | 56 | Input, Output | Connected to the PCF8574A IO extender |
@@ -54,7 +54,7 @@ See  [Johnny-Five API docs](http://johnny-five.io/api/).
 | XIO-P5 | 58 | Input, Output | Connected to the PCF8574A IO extender |
 | XIO-P6 | 59 | Input, Output | Connected to the PCF8574A IO extender |
 | XIO-P7 | 60 | Input, Output | Connected to the PCF8574A IO extender |
-| I2C | | I2C | Uses I2C port 1 (TWI1-SCK and TWI1-SDA) |
+| I2C | | I2C | Uses I2C port 2 (TWI2-SCK and TWI2-SDA) |
 
 ![C.H.I.P. pinouts](http://docs.getchip.com/images/chip_pinouts.jpg)
 
