@@ -1,7 +1,7 @@
 var pins = require('../lib/pins');
 
 console.log('| Johnny-Five Compatible Name | Number | Supported Modes | Requires root or sudo | Info |');
-console.log('| --------------------------- | ------ | --------------- | --------------------- | ---- |');
+console.log('| --------------------------- | :----: | --------------- | :-------------------: | ---- |');
 
 for (var i = 0; i < pins.length; i++) {
   var pin = pins[i];

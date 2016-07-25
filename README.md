@@ -47,7 +47,7 @@ See  [Johnny-Five API docs](http://johnny-five.io/api/).
 ## Pin Guide
 
 | Johnny-Five Compatible Name | Number | Supported Modes | Requires root or sudo | Info |
-| --------------------------- | ------ | --------------- | --------------------- | ---- |
+| --------------------------- | :----: | --------------- | :-------------------: | ---- |
 | LCD-D2 | 17 | Input | ✓ |  |
 | PWM0 | 18 | Input, Output, PWM | ✓ |  |
 | LCD-D4 | 19 | Input, Output | ✓ |  |
