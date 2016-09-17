@@ -1,3 +1,7 @@
+## Version 2.0.1
+
+ * Correct typeof comparison for addressToBus map, fixes I2C read and write operations.
+
 ## Version 2.0.0
 
  * Officially added support to access LCD pins via `mmap` to `/dev/mem` (requires `root` or `sudo`).
