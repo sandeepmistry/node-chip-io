@@ -21,6 +21,8 @@ __NOTE:__ Some GPIO pins require `root` or `sudo`.
 npm install chip-io johnny-five
 ```
 
+__NOTE:__ Must be run on the C.H.I.P. itself.
+
 ## Boilerplate Program
 
 ```javascript
