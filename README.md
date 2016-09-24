@@ -94,7 +94,7 @@ See  [Johnny-Five API docs](http://johnny-five.io/api/).
 | CSID5 | 76 | Input, Output | ✓ |  |
 | CSID6 | 77 | Input, Output | ✓ |  |
 | CSID7 | 78 | Input, Output | ✓ |  |
-| I2C | | I2C | | Uses I2C port 2 (TWI2-SCK and TWI2-SDA) |
+| I2C | | I2C | | Uses I2C port 2 (TWI2-SCK and TWI2-SDA). Address 0x38 is used by the built-in PCF8574A IO extender |
 
 ![C.H.I.P. pinouts](http://docs.getchip.com/images/chip_pinouts.jpg)
 
