@@ -1,3 +1,9 @@
+## Version 2.0.2
+
+ * Correct internal temperature controller name.
+ * Correct PWM polarity inversion.
+ * Switch to sync. I/O, resolves I2C issues.
+
 ## Version 2.0.1
 
  * Correct typeof comparison for addressToBus map, fixes I2C read and write operations.
