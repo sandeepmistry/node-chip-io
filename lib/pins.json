@@ -633,5 +633,13 @@
     "report": 0,
     "analogChannel": 127,
     "chip": "AXP209"
+  },
+  {
+    "name": "BTN",
+    "supportedModes": [0],
+    "mode": 0,
+    "report": 0,
+    "analogChannel": 127,
+    "chip": "AXP209"
   }
 ]
