@@ -1,3 +1,8 @@
+## Version 2.1.0
+
+ * Fixed I2C address 0 not working
+ * Added support for Onboard Button
+
 ## Version 2.0.2
 
  * Correct internal temperature controller name.
