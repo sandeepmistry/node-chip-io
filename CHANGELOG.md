@@ -1,3 +1,9 @@
+## Version 2.1.1
+
+ * Added new on-board button and status LED example. ([@norgeous](https://github.com/norgeous))
+ * Switch to `i2c-bus` module for I2C layer. ([@fivdi](https://github.com/fivdi))
+ * Throw exception for `pingRead`.
+
 ## Version 2.1.0
 
  * Fixed I2C address 0 not working
