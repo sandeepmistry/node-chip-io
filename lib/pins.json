@@ -472,7 +472,7 @@
     "report": 0,
     "analogChannel": 127
   },
-    {
+  {
     "name": "AP-EINT1",
     "supportedModes": [],
     "mode": -1,
