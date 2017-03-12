@@ -102,7 +102,7 @@ See  [Johnny-Five API docs](http://johnny-five.io/api/).
 
 | Type | Usage | Johnny-Five type | Notes |
 | ---- | ----- | ---------------- | ----- |
-| Battery Voltage | `new chipio.BatteryVoltage();` | [five.Sensor](http://johnny-five.io/api/sensor/) | Reads battery voltage from the AXP290 |
-| Internal Temperature | `new chipio.InternalTemperature();` | [five.Thermometer](http://johnny-five.io/api/thermometer/) | Reads internal temperature from the AXP290 |
-| Onboard Button | `new chipio.OnboardButton();` | [five.Button](http://johnny-five.io/api/button/) | Use onboard button (beside `LCD-DE` pin) connected to the AXP290 |
-| Status LED | `new chipio.StatusLed;` | [five.Led](http://johnny-five.io/api/led/) | Controls status LED connected to GPIO2 on the AXP290 |
+| Battery Voltage | `new chipio.BatteryVoltage();` | [five.Sensor](http://johnny-five.io/api/sensor/) | Reads battery voltage from the AXP209 |
+| Internal Temperature | `new chipio.InternalTemperature();` | [five.Thermometer](http://johnny-five.io/api/thermometer/) | Reads internal temperature from the AXP209 |
+| Onboard Button | `new chipio.OnboardButton();` | [five.Button](http://johnny-five.io/api/button/) | Use onboard button (beside `LCD-DE` pin) connected to the AXP209 |
+| Status LED | `new chipio.StatusLed;` | [five.Led](http://johnny-five.io/api/led/) | Controls status LED connected to GPIO2 on the AXP209 |
