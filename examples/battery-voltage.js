@@ -11,6 +11,6 @@ board.on('ready', function() {
 
   // listen for value changes
   batteryVoltage.on('change', function(voltage) {
-    console.log('Battery voltage is ' + voltage.toFixed(2) + 'V');
+    console.log('Battery voltage is ' + voltage + 'V');
   });
 });
