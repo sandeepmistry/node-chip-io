@@ -9,6 +9,6 @@ board.on('ready', function() {
   var thermometer = new chipio.InternalTemperature();
 
   thermometer.on('change', function(data) {
-    console.log('Internal temperature is ' + data.celsius.toFixed(2) + '°C');
+    console.log('Internal temperature is ' + data.celsius + '°C');
   });
 });
